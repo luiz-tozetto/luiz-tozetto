@@ -12,7 +12,7 @@ More about ReactJS and Angular, I'm also looking foward to start learning more a
 - I’m looking to collaborate on:
 Front end development, customer experience and project management in near future.
 
-- You can contact me via:
+- You can contact me via
 Email: luiz-tozetto@hotmail.com
 or
 Linkedin: https://www.linkedin.com/in/luiz-henrique-repula-tozetto-05b48a179/
